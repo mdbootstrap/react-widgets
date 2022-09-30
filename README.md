@@ -6,7 +6,7 @@ Check out [React Bootstrap Widget Documentation](https://mdbootstrap.com/docs/re
 
 
 [React Bootstrap widgets:
-![React Bootstrap widgets](./basic.png)](https://mdbootstrap.com/docs/react/extended/widgets/)
+![React Bootstrap widgets](/assets/basic.png)](https://mdbootstrap.com/docs/react/extended/widgets/)
 
 ## How to use?
 

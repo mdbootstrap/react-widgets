@@ -1,6 +1,6 @@
 {
   "name": "@mdbootstrap/react-widgets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Responsive React Widgets & Addons built with the latest Bootstrap 5. Calendar, eCommerce gallery, Chat, File upload, Countdown, WYSIWYG, Drag & drop, Filters, & more",
   "private": false,
   "homepage": "https://mdbootstrap.com/docs/react/extended/widgets",
